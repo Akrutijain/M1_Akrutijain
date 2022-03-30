@@ -49,3 +49,5 @@
 # How
   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
   
+  # Detail requirements
+High Level Requirements
