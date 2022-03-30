@@ -59,3 +59,10 @@
 | HL_3 | User shall be able to purchase a ticket                | Technical | Implemented |
 | HL_4 | User shall be able to get summary of the ticket booked | Technical | Implemented |
 | HL_5 | User shall be able to cancle a ticket                  | Technical | Implemented |
+
+
+## Low Level Requirements 
+
+| ID   |                           Description                  | HLR ID  |        Status           |
+                                                                               (Implemented/Future)
+|------|--------------------------------------------------------|---------|-------------------------|
