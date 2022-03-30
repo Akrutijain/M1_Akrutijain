@@ -38,15 +38,15 @@
    * Exit System.
 
 ## 4W's and 1'H
-#### Who
+### Who
   Theater
-#### What
+### What
   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
-#### When
+### When
   When user wants to carry out the tasks quickly and this reduces manual work and saves time
-#### Where
+### Where
   This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
-#### How
+### How
   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
   
   # Detail requirements
