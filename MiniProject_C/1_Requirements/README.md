@@ -63,6 +63,13 @@
 
 ## Low Level Requirements 
 
-| ID   |                                              Description                        | HLR ID    |   Status    |
-|------|---------------------------------------------------------------------------------|-----------|-------------|
-| LL_1 | User shall be able to login to the system with correct login details            | HL_1      | Implemented |
+| ID   |                                              Description                                        | HLR ID    |   Status    |
+|------|-------------------------------------------------------------------------------------------------|-----------|-------------|
+| LL_1 | User shall be able to login to the system with correct login details                            | HL_1      | Implemented |
+| LL_2 | User need to book a ticket in a user entry mode                                                 | HL_1      | Implemented |
+| LL_3 | If appropriate login detail are not entered a message is display "Wrong password"               | HL_1      | Implemented |
+| LL_4 | Display the movie available                                                                     | HL_2      | Implemented |
+| LL_5 | Admin can change the price of the movie                                                         | HL_2      | Implemented |
+| LL_6 | If user select seat number which is already booked ,message appere that the seat is unavailable | HL_5      | Implemented |
+| LL_7 | Displaying the summary of the ticket booked                                                     | HL_3      | Implemented |
+
