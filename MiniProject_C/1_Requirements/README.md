@@ -55,12 +55,7 @@
 | ID   |                           Description                  | Category  |   Status    |
 |------|--------------------------------------------------------|-----------|-------------|
 | HL_1 | User shall be able to login to the system              | Technical | Implemented |
-|------|--------------------------------------------------------|-----------|-------------|
 | HL_2 | User shall be able to view the reserved seats          | Technical | Implemented |
-|------|--------------------------------------------------------|-----------|-------------|
 | HL_3 | User shall be able to purchase a ticket                | Technical | Implemented |
-|------|--------------------------------------------------------|-----------|-------------|
 | HL_4 | User shall be able to get summary of the ticket booked | Technical | Implemented |
-|------|--------------------------------------------------------|-----------|-------------|
 | HL_5 | User shall be able to cancle a ticket                  | Technical | Implemented |
-|------|--------------------------------------------------------|-----------|-------------|
