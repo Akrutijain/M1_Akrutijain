@@ -63,5 +63,6 @@
 
 ## Low Level Requirements 
 
-| ID   |                           Description                  | HLR ID  |  Status(Implemented/Future) |                                                                |------|--------------------------------------------------------|---------|-----------------------------|
-
+| ID   |                                              Description                        | HLR ID    |   Status    |
+|------|---------------------------------------------------------------------------------|-----------|-------------|
+| LL_1 | User shall be able to login to the system with correct login details            | HL_1      | Implemented |
