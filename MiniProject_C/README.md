@@ -3,7 +3,7 @@
 ![online-movie-ticket-booking-app-development](https://user-images.githubusercontent.com/85542051/160798963-71cc9126-d891-4eff-a34b-f1207fe9d3e3.png)
 
 
-
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
 
 
 
