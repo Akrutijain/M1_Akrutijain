@@ -5,9 +5,7 @@
 
 
 
-Download Rating Code Grade Code Quality
 
-Quick Start
 
 
 ## Folder structure
