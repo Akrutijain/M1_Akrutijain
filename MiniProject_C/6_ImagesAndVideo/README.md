@@ -13,3 +13,6 @@
 ![image11-book other seat num1](https://user-images.githubusercontent.com/85542051/161010683-142e574f-3125-422f-b349-787940d074dc.png)
 ![image12-cancelticket](https://user-images.githubusercontent.com/85542051/161010686-e7ea1d49-523a-4f7a-94b1-f699a1096fe8.png)
 ![image13-summary of cancelticket](https://user-images.githubusercontent.com/85542051/161010690-c4019602-cda2-418f-a214-bbb479173d24.png)
+![image14-admin login](https://user-images.githubusercontent.com/85542051/161010939-fa2e3b4b-8e28-4bab-a3f9-c1125cf595ed.png)
+![image15-changeprice](https://user-images.githubusercontent.com/85542051/161010943-c41ae850-7725-4309-9f82-1a731b308efc.png)
+![image15wrong login](https://user-images.githubusercontent.com/85542051/161010946-0bc6a1db-773b-4c38-8c94-9ce1d66fb06e.png)
