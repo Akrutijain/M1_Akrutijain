@@ -4,8 +4,6 @@
 
 
 
-Build	Unit Test	cppcheck	Valgrind	Codacy
-C/C++ CI	Unit testing	cppcheck-action	Valgrind	Codacy Badge
 
 
 
