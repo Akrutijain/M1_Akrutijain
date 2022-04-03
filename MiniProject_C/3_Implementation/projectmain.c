@@ -14,7 +14,7 @@ int main()
 	for (i=0;i<3;i++)
 		*(seatnum+i)=(int *)calloc(101,sizeof(int ));
 	int x;
-	char pass[10],pak[10]="user";
+	char pass[11],pak[11]="user";
 while(x!=3)
 	{
         a:choice=enterchoice();
@@ -23,8 +23,8 @@ while(x!=3)
 		    int y;
 		    int ch;
 			case 1:
-			    b:printf(" 1- To edit price of ticket :   \n");
-                printf(" 2- To view reserved tickets:   \n");
+			    b:printf(" 1- Edit price of ticket :   \n");
+                printf(" 2- view reserved tickets:   \n");
                 printf(" 3- Exit  System:        \n");
 	            scanf("%d", &ch);
 	            switch(ch){
