@@ -1,11 +1,11 @@
 /**
  * @file function.h
- * @author Goutami D Honagannavar (you@domain.com)
- * @brief 
+ * @maker Akruti jain
+ * @data
  * @version 0.1
- * @date 2021-09-05
+ * @date 04/03/2022
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #ifndef __FUNCTION_H__
@@ -36,49 +36,49 @@
 
 
 /**
- * @brief login withrespective to customer or admin
+ * @data login withrespective to customer or admin
  */
 
 
 int enterchoice(void);
 /**
- * @brief login for admin
+ * @data login for admin
  * 
  */
 void details(void);
 /**
- * @brief Displays the movie available to purchase a ticket
+ * @data Displays the movie available to purchase a ticket
  */
 
 int ListofMovies(void);
 int movieselect(void);
 
 /**
- * @brief admin can change prize of ticket after login with the appropriate login credentials .
+ * @data admin can change prize of ticket after login with the appropriate login credentials .
  * 
  */
 int changepriceticket(int);
 
 /**
- * @brief Customer can purchase a ticket 
+ * @data Customer can purchase a ticket 
  */
 
 void show1(int choice,char name[10],int id1,int price);
 /**
- * @brief Customer can purchase a ticket 
+ * @data Customer can purchase a ticket 
  */
 void show2(int choice,char name[10],int id1,int price);
 /**
- * @brief Customer can purchase a ticket 
+ * @data Customer can purchase a ticket 
  */
 void show3(int choice,char name[10],int id1,int price);
 /**
- * @brief A customer can reserve the ticket
+ * @data A customer can reserve the ticket
  */
 void reserveticket(int *,int,int );
 
 /**
- * @brief A customer can cancel the ticket  
+ * @data A customer can cancel the ticket  
  */
 void cancelticket(int *); 
 
